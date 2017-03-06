@@ -1,0 +1,30 @@
+.carousel {
+	width:900px;
+	margin:20px;
+}
+
+.slide {
+	width: 800px;
+	height: 600px;
+	background-size: cover;
+}
+
+.slick-prev:before, .slick-next:before { 
+    color:red !important;
+
+}
+#slide1 {
+	background-image: url("img/happy1.jpg");
+}
+
+#slide2 {
+	background-image: url("img/happy2.jpg");
+}
+
+#slide3 {
+	background-image: url("img/happy3.jpg");
+}
+
+#slide4 {
+	background-image: url("img/happy4.jpg");
+}
